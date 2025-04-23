@@ -1,6 +1,6 @@
 -- MySQL dump 10.13  Distrib 8.0.41, for Win64 (x86_64)
 --
--- Host: localhost    Database: testdb
+-- Host: localhost    Database: testdatabase
 -- ------------------------------------------------------
 -- Server version	8.0.41
 
@@ -16,11 +16,11 @@
 /*!40111 SET @OLD_SQL_NOTES=@@SQL_NOTES, SQL_NOTES=0 */;
 
 --
--- Dumping events for database 'testdb'
+-- Dumping events for database 'testdatabase'
 --
 
 --
--- Dumping routines for database 'testdb'
+-- Dumping routines for database 'testdatabase'
 --
 /*!40103 SET TIME_ZONE=@OLD_TIME_ZONE */;
 
@@ -32,4 +32,4 @@
 /*!40101 SET COLLATION_CONNECTION=@OLD_COLLATION_CONNECTION */;
 /*!40111 SET SQL_NOTES=@OLD_SQL_NOTES */;
 
--- Dump completed on 2025-04-23 11:46:20
+-- Dump completed on 2025-04-23 12:39:22
